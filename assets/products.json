@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Leche",
+		"description": "Leche en sachet 1ltr",
+		"price": 1000,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 50,
+		"id": 1
+	},
+	{
+		"title": "Arroz",
+		"description": "Arroz 1kg",
+		"price": 1500,
+		"thumbnail": "Sin imagen",
+		"code": "abc124",
+		"stock": 75,
+		"id": 2
+	},
+	{
+		"title": "Sal",
+		"description": "Sal fina 500gr",
+		"price": 900,
+		"thumbnail": "Sin imagen",
+		"code": "abc125",
+		"stock": 20,
+		"id": 3
+	},
+	{
+		"title": "Café",
+		"description": "Café tostado 300gr",
+		"price": 11000,
+		"thumbnail": "Sin imagen",
+		"code": "abc126",
+		"stock": 48,
+		"id": 4
+	},
+	{
+		"title": "Yerba",
+		"description": "Yerba 1kg",
+		"price": 1700,
+		"thumbnail": "Sin imagen",
+		"code": "abc127",
+		"stock": 33,
+		"id": 5
+	},
+	{
+		"title": "Azúcar",
+		"description": "Azúcar 500gr",
+		"price": 900,
+		"thumbnail": "Sin imagen",
+		"code": "abc128",
+		"stock": 18,
+		"id": 6
+	},
+	{
+		"title": "Agua",
+		"description": "Botella de agua 1ltr",
+		"price": 1000,
+		"thumbnail": "Sin imagen",
+		"code": "abc129",
+		"stock": 50,
+		"id": 7
+	},
+	{
+		"title": "Pan de mesa",
+		"description": "Pan de mesa 500gr",
+		"price": 1800,
+		"thumbnail": "Sin imagen",
+		"code": "abc130",
+		"stock": 16,
+		"id": 8
+	},
+	{
+		"title": "Yogurt entero",
+		"description": "Yogurt entero 200gr",
+		"price": 850,
+		"thumbnail": "Sin imagen",
+		"code": "abc131",
+		"stock": 6,
+		"id": 9
+	},
+	{
+		"title": "Salchichas",
+		"description": "Salchichas 12 unidades",
+		"price": 1800,
+		"thumbnail": "Sin imagen",
+		"code": "abc132",
+		"stock": 32,
+		"id": 10
+	}
+]
